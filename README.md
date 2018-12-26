@@ -1,4 +1,4 @@
-# 이력서
+## 내정보
 
 Blog : https://kodaewon.github.io/
 
