@@ -1,2 +1,5 @@
-# resume
-경력기술서
+# 이력서
+
+Blog : https://kodaewon.github.io/
+
+Github : https://github.com/kodaewon/
