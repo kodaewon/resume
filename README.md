@@ -23,10 +23,7 @@ Github : https://github.com/kodaewon/
 - 역활 : IOS 개발
 - 사용기술 : Swift, Lottie, Fabric, Calendar, Share
 - AppStore : https://itunes.apple.com/kr/app/id1429646491?mt=8
-<img src="images/akira_1.jpg" width="150"/>
-<img src="images/akira_2.jpg" width="150"/>
-<img src="images/akira_3.jpg" width="150"/>
-<img src="images/akira_4.jpg" width="150"/>
+<img src="images/akira_1.jpg" width="150"/><img src="images/akira_2.jpg" width="150"/><img src="images/akira_3.jpg" width="150"/><img src="images/akira_4.jpg" width="150"/>
 
 ### 헬로무드 - 자체서비스
 
