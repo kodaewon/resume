@@ -6,8 +6,11 @@ Github : https://github.com/kodaewon/
 
 ## 경력
 
+[Airwafi](https://airwafi.com/)
+- 2019.05.01 ~ ing
+
 [ondo](https://www.ondo.io/)
-- 2018.05.02 ~ ing
+- 2018.05.02 ~ 2019.04.30
 
 [theinsystems](https://www.theinsystems.com/)
 
