@@ -13,10 +13,20 @@ Github : https://github.com/kodaewon/
 - 2018.05.02 ~ 2019.04.30
 
 [theinsystems](https://www.theinsystems.com/)
-
 - 2016.01.15 ~ 2018.04.30
 
 ## 프로젝트
+
+### Brussels Charleroi Airport - 자체서비스
+
+브뤼셀 샤를루아 공항 여행자 앱
+
+- 기간 : 2019.05 ~ now
+- 역활 : IOS 개발
+- 사용기술 : Swift, Sqlite, Firebase, GoogleMaps
+- AppStore : https://itunes.apple.com/kr/app/id1368583145?mt=8
+
+<img src="images/airwafi_1.jpg" width="150"/> <img src="images/airwafi_2.jpg" width="150"/> <img src="images/airwafi_3.jpg" width="150"/> <img src="images/airwafi_4.jpg" width="150"/>
 
 ### AKIRA - 자체서비스
 
