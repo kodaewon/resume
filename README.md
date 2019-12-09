@@ -15,9 +15,9 @@ Github : https://github.com/kodaewon/
 [theinsystems](https://www.theinsystems.com/)
 - 2016.01.15 ~ 2018.04.30
 
-## 프로젝트
+## 회사 프로젝트
 
-### Brussels Charleroi Airport - 자체서비스
+### Brussels Charleroi Airport - 회사 서비스
 
 브뤼셀 샤를루아 공항 여행자 앱
 
@@ -28,7 +28,7 @@ Github : https://github.com/kodaewon/
 
 <img src="images/airwafi_1.jpg" width="150"/> <img src="images/airwafi_2.jpg" width="150"/> <img src="images/airwafi_3.jpg" width="150"/> <img src="images/airwafi_4.jpg" width="150"/>
 
-### AKIRA - 자체서비스
+### AKIRA - 회사 서비스
 
 나만의 인공지능
 
@@ -39,7 +39,7 @@ Github : https://github.com/kodaewon/
 
 <img src="images/akira_1.jpg" width="150"/> <img src="images/akira_2.jpg" width="150"/> <img src="images/akira_3.jpg" width="150"/> <img src="images/akira_4.jpg" width="150"/>
 
-### 헬로무드 - 자체서비스
+### 헬로무드 - 회사 서비스
 
 매일매일 나만의 기분일기장
 
@@ -50,7 +50,7 @@ Github : https://github.com/kodaewon/
 
 <img src="images/hellomood_1.png" width="150"/> <img src="images/hellomood_2.png" width="150"/> <img src="images/hellomood_3.png" width="150"/> <img src="images/hellomood_4.png" width="150"/>
 
-### 품앗이 주차
+### 품앗이 주차 - 회사 외주
 
 이웃과 나누는 주차공간공유 플랫폼
 
@@ -61,7 +61,7 @@ Github : https://github.com/kodaewon/
 
 <img src="images/parking_1.jpg" width="150"/> <img src="images/parking_2.jpg" width="150"/> <img src="images/parking_3.jpg" width="150"/> <img src="images/parking_4.jpg" width="150"/>
 
-### 당뇨케어PLUS
+### 당뇨케어PLUS - 회사 외주
 
 한화손해보험 고객용 헬스케어(혈당, 체중, 걷기, 혈압, 식사관리) 앱
 
@@ -70,7 +70,7 @@ Github : https://github.com/kodaewon/
 - 사용기술 : Objective-c, HealthKit, 체중 및 혈당계 Bluetooth 연동, Chart
 - AppStore : https://itunes.apple.com/kr/app/id1371207365?mt=8
 
-### MYPIN+
+### MYPIN+ - 회사 외주
 
 동영상 촬영후 SNS(YouTube, FaceBook) 공유 및 관리 앱
 
@@ -78,7 +78,7 @@ Github : https://github.com/kodaewon/
 - 역활 : IOS 개발
 - 사용기술 : Objective-c
 
-### TapDoctor
+### TapDoctor - 회사 외주
 
 사용자 자문을 통한 예상 질병 결과 앱
 
@@ -86,7 +86,7 @@ Github : https://github.com/kodaewon/
 - 역활 : IOS 개발
 - 사용기술 : Objective-c
 
-### 라이프케어
+### 라이프케어 - 회사 외주
 
 ING헬스케어(체중, 혈당, 식사관리) 앱
 
@@ -94,7 +94,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 역활 : IOS 개발
 - 사용기술 : Objective-c, 체중 및 혈당계 Bluetooth 연동, Chart
 
-### KB행복건강
+### KB행복건강 - 회사 외주
 
 건강관련 컨텐츠 및 국민은행에서 건강관련 예방 문자서비스
 
@@ -102,7 +102,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 역활 : IOS 개발
 - 사용기술 : Objective-c
 
-### 큐라소프트
+### 큐라소프트 - 회사 외주
 
 여행자 물건에 비콘 하드웨어를 달아서 분실직전 앱에서 푸시 주는 앱
 
@@ -110,7 +110,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 역활 : IOS 개발
 - 사용기술 : Objective-c, Beacon
 
-### Soil-결과보고서
+### Soil-결과보고서 - 회사 외주
 
 매년 결과보고를 앱에서 보고자 나온 서비스
 
@@ -118,15 +118,15 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 역활 : IOS 개발
 - 사용기술 : Objective-c, Hybrid, finger-push
 
-### 나주 고샅길
-
+### 나주 고샅길 - 회사 외주
+ 
 나주 고샅길 관광 코스 안내 및 소개 서비스
 
 - 기간 : 2016.09 ~ 2016.09
 - 역활 : IOS 개발
 - 사용기술 : Objective-c, HTML, javascript, estimote(beacon)
 
-### 핑크터치
+### 핑크터치 - 회사 외주
 
 여성 핑크 파우치 관련 앱
 
