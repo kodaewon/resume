@@ -1,8 +1,8 @@
 ## 내정보
 
-Blog : https://kodaewon.github.io/
+Blog : https://kodaewon.github.io
 
-Github : https://github.com/kodaewon/
+Github : https://github.com/kodaewon
 
 ## 경력
 
