@@ -88,6 +88,7 @@ iOS Developer
 - 기간 : 2018.02 ~ 2018.03
 - 역활 : IOS 개발
 - 사용기술 : Objective-c
+- AppStore : https://itunes.apple.com/kr/app/id1352866779?mt=8
 
 ### TapDoctor - 회사 외주
 
@@ -96,6 +97,7 @@ iOS Developer
 - 기간 : 2017.08 ~ 2017.09
 - 역활 : IOS 개발
 - 사용기술 : Objective-c
+- AppStore : https://itunes.apple.com/kr/app/id1280786173?mt=8
 
 ### 라이프케어 - 회사 외주
 
@@ -104,6 +106,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 기간 : 2017.06 ~ 2017.07
 - 역활 : IOS 개발
 - 사용기술 : Objective-c, 체중 및 혈당계 Bluetooth 연동, Chart
+- AppStore : https://itunes.apple.com/kr/app/id1264336344?mt=8
 
 ### KB행복건강 - 회사 외주
 
@@ -112,6 +115,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 기간 : 2017.02
 - 역활 : IOS 개발
 - 사용기술 : Objective-c
+- AppStore : https://itunes.apple.com/kr/app/id1223429721?mt=8
 
 ### 큐라소프트 - 회사 외주
 
@@ -120,6 +124,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 기간 : 2016.11 ~ 2017.01
 - 역활 : IOS 개발
 - 사용기술 : Objective-c, Beacon
+- AppStore : https://itunes.apple.com/kr/app/id1184819955?mt=8
 
 ### Soil-결과보고서 - 회사 외주
 
