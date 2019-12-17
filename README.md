@@ -1,4 +1,6 @@
-## 내정보
+## 고대원
+
+Email: yreak33@gmail.com
 
 Blog : https://kodaewon.github.io
 
@@ -7,12 +9,21 @@ Github : https://github.com/kodaewon
 ## 경력
 
 [Airwafi](https://airwafi.com/)
+
+iOS Developer
+
 - 2019.05.01 ~ ing
 
 [ondo](https://www.ondo.io/)
+
+iOS Developer
+
 - 2018.05.02 ~ 2019.04.30
 
 [theinsystems](https://www.theinsystems.com/)
+
+개발 / 대리
+
 - 2016.01.15 ~ 2018.04.30
 
 ## 회사 프로젝트
@@ -119,7 +130,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 - 사용기술 : Objective-c, Hybrid, finger-push
 
 ### 나주 고샅길 - 회사 외주
- 
+
 나주 고샅길 관광 코스 안내 및 소개 서비스
 
 - 기간 : 2016.09 ~ 2016.09
