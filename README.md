@@ -12,7 +12,7 @@ Github : https://github.com/kodaewon
 
 iOS Developer
 
-- 2019.05.01 ~ ing
+- 2019.05.01 ~ 2019.12.18
 
 [ondo](https://www.ondo.io/)
 
@@ -32,7 +32,7 @@ iOS Developer
 
 브뤼셀 샤를루아 공항 여행자 앱
 
-- 기간 : 2019.05 ~ now
+- 기간 : 2019.05 ~ 2019.12
 - 역활 : IOS 개발
 - 사용기술 : Swift, Sqlite, Firebase, GoogleMaps
 - AppStore : https://itunes.apple.com/kr/app/id1368583145?mt=8
