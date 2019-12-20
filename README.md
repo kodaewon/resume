@@ -1,7 +1,9 @@
 ## 고대원
 
 - Email: yreak33@gmail.com
+
 - Blog : https://kodaewon.github.io
+
 - Github : https://github.com/kodaewon
 
 ## 경력
@@ -35,7 +37,7 @@
 
 나만의 인공지능
 
-- 기간 : 2018.07 ~ now
+- 기간 : 2018.07 ~ 2018.11
 - 역활 : IOS 개발
 - 사용기술 : Swift, Lottie, Fabric, Calendar, Share
 - AppStore : https://itunes.apple.com/kr/app/id1429646491?mt=8
@@ -46,7 +48,7 @@
 
 매일매일 나만의 기분일기장
 
-- 기간 : 2018.06 ~ now
+- 기간 : 2018.06 ~ 2018.08
 - 역활 : IOS 개발
 - 사용기술 : Swift, Sqlite, Lottie
 - AppStore : https://itunes.apple.com/kr/app/id1420871955?mt=8
