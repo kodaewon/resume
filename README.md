@@ -1,30 +1,22 @@
 ## 고대원
 
-Email: yreak33@gmail.com
-
-Blog : https://kodaewon.github.io
-
-Github : https://github.com/kodaewon
+- Email: yreak33@gmail.com
+- Blog : https://kodaewon.github.io
+- Github : https://github.com/kodaewon
 
 ## 경력
 
-[Airwafi](https://airwafi.com/)
+[글로벌에어포트네트워크코퍼레이션](https://airwafi.com/)
 
-iOS Developer
+- iOS Developer (2019.05.01 ~ 2019.12.18)
 
-- 2019.05.01 ~ 2019.12.18
+[이노벨럽](https://www.ondo.io/)
 
-[ondo](https://www.ondo.io/)
+- iOS Developer (2018.05.02 ~ 2019.04.30)
 
-iOS Developer
+[인시스템즈](https://www.theinsystems.com/)
 
-- 2018.05.02 ~ 2019.04.30
-
-[theinsystems](https://www.theinsystems.com/)
-
-개발 / 대리
-
-- 2016.01.15 ~ 2018.04.30
+- 개발 / 대리 (2016.01.15 ~ 2018.04.30)
 
 ## 회사 프로젝트
 
