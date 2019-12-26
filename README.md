@@ -66,6 +66,15 @@
 
 <img src="images/parking_1.jpg" width="150"/> <img src="images/parking_2.jpg" width="150"/> <img src="images/parking_3.jpg" width="150"/> <img src="images/parking_4.jpg" width="150"/>
 
+### 굿앤굿 어린이케어 - 회사 외주
+
+한화손해보험 고객용 헬스케어(혈당, 체중, 걷기, 혈압, 식사관리) 앱
+
+- 기간 : 2018.04 ~ 2018.05
+- 역활 : IOS 개발
+- 사용기술 : Objective-c, HealthKit, 체중 Bluetooth 연동, Chart, Code Refactoring
+- AppStore : https://itunes.apple.com/kr/app/id1229766852?mt=8
+
 ### 당뇨케어PLUS - 회사 외주
 
 한화손해보험 고객용 헬스케어(혈당, 체중, 걷기, 혈압, 식사관리) 앱
@@ -81,7 +90,7 @@
 
 - 기간 : 2018.02 ~ 2018.03
 - 역활 : IOS 개발
-- 사용기술 : Objective-c
+- 사용기술 : Objective-c, AVFoundation(영상촬영 개발)
 - AppStore : https://itunes.apple.com/kr/app/id1352866779?mt=8
 
 ### TapDoctor - 회사 외주
@@ -108,7 +117,7 @@ ING헬스케어(체중, 혈당, 식사관리) 앱
 
 - 기간 : 2017.02
 - 역활 : IOS 개발
-- 사용기술 : Objective-c
+- 사용기술 : Objective-c, AVFoundation(영상촬영)
 - AppStore : https://itunes.apple.com/kr/app/id1223429721?mt=8
 
 ### 큐라소프트 - 회사 외주
