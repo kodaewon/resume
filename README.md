@@ -20,6 +20,23 @@
 
 - 개발 / 대리 (2016.01.15 ~ 2018.04.30)
 
+## 개인 프로젝트
+
+#### 나만의 깃헙
+
+Rx, MVVM, SnapKit 에 익숙해지기 위해 깃허브 서비스 테마로
+
+개발을 해본 프로젝트 입니다.
+
+- 기간 : 2020.01.13 ~ 진행중
+
+- 역활 : IOS 개발
+
+- 사용기술 :  RxSwift, SnapKit, SwiftLint, Kingfisher, Moya ...
+
+- 자세한 정보 : [Go>>>](myproject/github_ios.md)
+
+
 ## 회사 프로젝트
 
 ### Brussels Charleroi Airport - 회사 서비스
@@ -28,7 +45,7 @@
 
 - 기간 : 2019.05 ~ 2019.12
 - 역활 : IOS 개발
-- 사용기술 : Swift, Sqlite, Firebase, GoogleMaps
+- 사용기술 : Swift, Sqlite, GoogleMaps, MVC
 - AppStore : https://itunes.apple.com/kr/app/id1368583145?mt=8
 
 <img src="images/airwafi_1.jpg" width="150"/> <img src="images/airwafi_2.jpg" width="150"/> <img src="images/airwafi_3.jpg" width="150"/> <img src="images/airwafi_4.jpg" width="150"/>
