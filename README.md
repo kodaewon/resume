@@ -8,6 +8,10 @@
 
 ## 경력
 
+[Sweettracker](http://www.sweettracker.co.kr/)
+
+- iOS Developer(2020.03.09 ~ )
+
 [글로벌에어포트네트워크코퍼레이션](https://airwafi.com/)
 
 - iOS Developer (2019.05.01 ~ 2019.12.18)
