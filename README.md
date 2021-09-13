@@ -43,6 +43,20 @@ Rx, MVVM, SnapKit 에 익숙해지기 위해 깃허브 서비스 테마로 개�
 
 
 ## 회사 프로젝트
+> ### Sweettracker
+
+### 스마트택배
+
+배송조회 앱
+
+- 기간 : 2020.03
+- 역활 : 스마트택배 IOS 유지보수
+- 사용기술 : Objective-c, Swift, RxSwift, CoreData, MVVM, fastlane
+- AppStore : https://itunes.apple.com/kr/app/id523045854?mt=8
+
+<img src="images/sweettracker_1.png" width="150"/> <img src="images/sweettracker_2.png" width="150"/> <img src="images/sweettracker_3.png" width="150"/> <img src="images/sweettracker_4.png" width="150"/>
+
+
 
 > ### 글로벌에어포트네트워크코퍼레이션
 
